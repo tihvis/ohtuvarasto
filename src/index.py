@@ -1,5 +1,5 @@
 from varasto import Varasto
-
+#add comment to test git conflict
 
 def main():
     mehua = Varasto(100.0)
