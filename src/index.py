@@ -2,8 +2,6 @@ from varasto import Varasto
 #add comment to test git conflict
 
 def main(): # pylint: disable=too-many-statements
-    bar = 0
-    print(bar)
     mehua = Varasto(100.0)
     olutta = Varasto(100.0, 20.2)
 
